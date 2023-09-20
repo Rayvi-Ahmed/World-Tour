@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Eiffel Tower",
+        "country": "France",
+        "image": "https://img.freepik.com/free-photo/blue-villa-beautiful-sea-hotel_1203-5316.jpg?w=740&t=st=1693882191~exp=1693882791~hmac=8e6ac3c78cd002b7fb2712eb13a0ffe2b101549d4a5761a6caec23f5639bf30f",
+        "rating": 4.7,
+        "description": "The Eiffel Tower is a wrought-iron masterpiece and an iconic symbol of Paris. It offers breathtaking views of the city.",
+        "nearby_hotel": "Hotel de la Bourdonnais - A luxury hotel located just a short walk from the Eiffel Tower."
+    },
+    {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "image": "https://img.freepik.com/free-photo/house-landscape-pool-relaxation-garden_1203-4900.jpg?w=740&t=st=1693882267~exp=1693882867~hmac=aa24ba3e60bc013293b2887dc43e9b9a42432c4fce95c6250b83cd0ef1963954",
+        "rating": 4.9,
+        "description": "Machu Picchu is an ancient Inca citadel situated high in the Andes Mountains. It's a UNESCO World Heritage site and a must-visit for history enthusiasts.",
+        "nearby_hotel": "Belmond Sanctuary Lodge - The only hotel located right next to Machu Picchu, offering stunning views."
+    },
+    {
+        "name": "Great Wall of China",
+        "country": "China",
+        "image": "https://img.freepik.com/premium-photo/pavilion-thai-style-with-lake-tree-garden_1339-118802.jpg?w=740",
+        "rating": 4.6,
+        "description": "The Great Wall of China is an ancient fortification that stretches over 13,000 miles. It's a symbol of China's rich history and culture.",
+        "nearby_hotel": "Brickyard Retreat at Mutianyu Great Wall - A boutique hotel located near the Mutianyu section of the Great Wall."
+    },
+    {
+        "name": "Statue of Liberty",
+        "country": "United States",
+        "image": "https://img.freepik.com/free-photo/daigoji-temple_74190-1124.jpg?w=740&t=st=1693882375~exp=1693882975~hmac=1242ef87b32fb7bad8d6ceb5afafb5669c2e528c0220fde71e59d77ecc6eddea",
+        "rating": 4.8,
+        "description": "The Statue of Liberty is a symbol of freedom and democracy. Visitors can take a ferry to Liberty Island and explore the statue and its history.",
+        "nearby_hotel": "Conrad New York Downtown - A luxury hotel with views of the Statue of Liberty, located in Lower Manhattan."
+    },
+    {
+        "name": "Taj Mahal",
+        "country": "India",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/1024px-Taj_Mahal_in_March_2004.jpg",
+        "rating": 4.9,
+        "description": "The Taj Mahal is a stunning white marble mausoleum in Agra, India. It's a UNESCO World Heritage site and a symbol of eternal love.",
+        "nearby_hotel": "The Oberoi Amarvilas - A luxurious hotel with views of the Taj Mahal from every room."
+    },
+    {
+        "name": "Santorini",
+        "country": "Greece",
+        "image": "https://img.freepik.com/free-photo/byodo-temple_74190-5398.jpg?w=740&t=st=1693882410~exp=1693883010~hmac=fc68c044302d6137cf78454fd9bd5495cb6c4809871ca3f207d3394fae068b81",
+        "rating": 4.8,
+        "description": "Santorini is a stunning Greek island known for its whitewashed buildings, crystal-clear waters, and breathtaking sunsets.",
+        "nearby_hotel": "Grace Santorini - A boutique hotel perched on the cliffs of Santorini, offering panoramic views."
+    },
+    {
+        "name": "Sydney Opera House",
+        "country": "Australia",
+        "image": "https://img.freepik.com/free-photo/beautiful-viewpoint-koh-nangyuan-island-surat-thani-thailand_335224-1097.jpg?w=900&t=st=1693882464~exp=1693883064~hmac=d06c99943299e230f16fcb8b2f47207611b8dfed4a53d2034e3d86c3dfe84b12",
+        "rating": 4.7,
+        "description": "The Sydney Opera House is an architectural marvel and a world-renowned performing arts venue located on Sydney Harbour.",
+        "nearby_hotel": "Park Hyatt Sydney - A luxury hotel with stunning views of the Opera House and the Harbour Bridge."
+    },
+    {
+        "name": "Petra",
+        "country": "Jordan",
+        "image": "https://img.freepik.com/free-photo/beautiful-strawberry-garden-sunrise-doi-ang-khang-chiang-mai-thailand_335224-762.jpg?w=740&t=st=1693882507~exp=1693883107~hmac=f88714be0cfda45d9e0779549bdab3604e92287b1184995e2e1210258d0d2a0f",
+        "rating": 4.8,
+        "description": "Petra is an ancient city carved into rose-red cliffs in southern Jordan. It's known for its rock-cut architecture and historical significance.",
+        "nearby_hotel": "Mövenpick Resort Petra - A hotel located near the entrance to Petra, offering convenience for visitors."
+    },
+    {
+        "name": "The Colosseum",
+        "country": "Italy",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-256.jpg?w=900&t=st=1693882534~exp=1693883134~hmac=4d7ece47f3875c02419a0f2d0526ceba5fadfb6cd28e32ef3e6c64f97476fd65",
+        "rating": 4.6,
+        "description": "The Colosseum is an ancient Roman amphitheater located in the heart of Rome. It's a symbol of Roman engineering and entertainment.",
+        "nearby_hotel": "Palazzo Manfredi - A boutique hotel with views of the Colosseum, located in the historic center of Rome."
+    },
+    {
+        "name": "Banff National Park",
+        "country": "Canada",
+        "image": "https://img.freepik.com/free-photo/yasaka-pagoda-sannen-zaka-street-kyoto-japan_335224-10.jpg?w=740&t=st=1693882571~exp=1693883171~hmac=edf1457d711afeed33c6743746d2be43e3f718b9316be77a42fd8e09473a8aa9",
+        "rating": 4.7,
+        "description": "Banff National Park is a stunning natural playground in the Canadian Rockies. It's known for its pristine landscapes and outdoor activities.",
+        "nearby_hotel": "Fairmont Banff Springs - A historic luxury hotel nestled in the heart of Banff National Park."
+    }
+]
